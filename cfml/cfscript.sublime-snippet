@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<cfscript>
+	$1
+</cfscript>
+]]></content>
+	<tabTrigger>scr</tabTrigger>
+</snippet>

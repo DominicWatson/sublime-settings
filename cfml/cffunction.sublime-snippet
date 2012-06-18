@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<cffunction name="$1" access="${2:public}" returntype="${3:any}" output="false">
+</cffunction>
+]]></content>
+	<tabTrigger>fun</tabTrigger>
+</snippet>

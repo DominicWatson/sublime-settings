@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<cffunction name="get$1" access="private" returntype="${2:any}" output="false">
+	<cfreturn _$1>
+</cffunction>
+<cffunction name="set$1" access="private" returntype="void" output="false">
+	<cfargument name="$1" type="${2:any}" required="true" />
+	<cfset _$1 = arguments.$1 />
+</cffunction>
+]]></content>
+	<tabTrigger>getset</tabTrigger>
+</snippet>

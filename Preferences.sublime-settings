@@ -1,0 +1,11 @@
+{
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"font_face": "Bitstream Vera Sans Mono",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}

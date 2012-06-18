@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<cffunction name="$1" returntype="void">
+	<cfscript>
+		fail("$1 not yet implemented")
+	</cfscript>	
+</cffunction>
+]]></content>
+	<tabTrigger>test</tabTrigger>
+</snippet>

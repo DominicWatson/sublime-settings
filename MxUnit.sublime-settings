@@ -1,0 +1,5 @@
+{
+	"base_url":"http://localhost.cfstatic/tests",
+	"base_path":"/home/dom/workspace/cfstatic/tests",
+	"test_suite":"/TestSuite.cfm"
+}
