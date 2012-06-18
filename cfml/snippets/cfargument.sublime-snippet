@@ -3,4 +3,5 @@
 <cfargument name="$1" type="${2:any}" required="${3:true}" hint="$4"/>
 ]]></content>
 	<tabTrigger>arg</tabTrigger>
+	<scope>source.cfscript</scope>
 </snippet>

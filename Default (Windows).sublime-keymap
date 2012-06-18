@@ -1,2 +1,15 @@
 [
+	{ "keys": ["super+space"], "command": "auto_complete" },
+	{ "keys": ["super+space"], "command": "replace_completion_with_auto_complete", "context":
+		[
+			{ "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+		]
+	},
+	{ "keys": ["ctrl+alt+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["ctrl+alt+down"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["alt+f4"], "command": "close_window" },
+	{ "keys": ["ctrl+shift+w"], "command": "close_all" },
+    { "keys": ["ctrl+l","ctrl+k"], "command": "run_macro_file", "args": {"file": "Packages/User/macros/delete-line.sublime-macro"} }
+
 ]
