@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <cffunction name="$1" access="${2:public}" returntype="${3:any}" output="false">
+	$0
 </cffunction>
 ]]></content>
 	<tabTrigger>fun</tabTrigger>

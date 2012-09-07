@@ -9,6 +9,6 @@
 </cffunction>
 ]]></content>
 	<tabTrigger>getset</tabTrigger>
-	<scope>source.cfscript</scope>
+	<!-- <scope>source.cfscript</scope> -->
 
 </snippet>

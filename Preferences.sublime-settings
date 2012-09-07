@@ -1,7 +1,7 @@
 {
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"font_face": "Bitstream Vera Sans Mono",
-	"font_size": 8,
+	"font_size": 8.0,
 	"ignored_packages":
 	[
 		"Vintage"

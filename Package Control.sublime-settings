@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1340001957,
+	"auto_upgrade_last_run": 1346355948,
 	"installed_packages":
 	[
 		"Alignment",
@@ -8,6 +8,7 @@
 		"ColdFusion",
 		"Git",
 		"LESS",
+		"MarkdownBuild",
 		"Open Recent Files",
 		"Package Control",
 		"SideBarEnhancements",

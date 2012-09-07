@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<cfcomponent output="false">
+
+<!--- properties --->
+	<cfscript>
+
+	</cfscript>
+
+<!--- constructor --->
+	<cffunction name="init" access="public" returntype="any" output="false">
+		<cfscript>
+			$0
+			return this;
+		</cfscript>
+	</cffunction>
+
+<!--- public methods --->
+
+<!--- private helpers --->
+
+</cfcomponent>
+]]></content>
+	<tabTrigger>cfc</tabTrigger>
+<!-- 	<scope>source.cfscript</scope>
+ --></snippet>
