@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<component id="$1" icon="" iconLarge="" title="$2" hide="false" groupid="$3">
+	<description>$4</description>
+	<displaycolumns>
+		<displaycolumn name="obj_label"   displayname="$2" />
+	</displaycolumns>
+	<cvsexportcolumns>
+		<csvexportcolumn name="obj_ID"    displayname="ID" />
+		<csvexportcolumn name="obj_label" displayname="$2" />
+	</cvsexportcolumns>
+</component>
+]]></content>
+	<tabTrigger>pxml</tabTrigger>
+</snippet>

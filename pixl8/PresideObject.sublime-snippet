@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<cfcomponent displayname="$1" hint="$2" extends="pcmscore.baseobject">
+	<cfproperty name="obj_id"           type="string"   formlabel="Object ID"     formrequired="true"  formfield="hidden" maxsize="35"  p_datatype="varchar"  p_editable="false" />
+	<cfproperty name="obj_label"        type="string"   formlabel="Object Label"  formrequired="false" formfield="text"   maxsize="250" p_datatype="varchar"  p_editable="true"  />
+	<cfproperty name="obj_datecreated"  type="datetime" formlabel="Date Created"  formrequired="false" formfield="none"   maxsize="26"  p_datatype="datetime" p_editable="false" />
+	<cfproperty name="obj_datemodified" type="datetime" formlabel="Date Modified" formrequired="false" formfield="none"   maxsize="26"  p_datatype="datetime" p_editable="false" />
+</cfcomponent>
+]]></content>
+	<tabTrigger>pobj</tabTrigger>
+</snippet>
