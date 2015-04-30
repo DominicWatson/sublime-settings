@@ -1,14 +1,12 @@
 <snippet>
 	<content><![CDATA[
 <cffunction name="_get$1" access="private" returntype="${2:any}" output="false">
-	<cfreturn _$1>
+	<cfreturn _${3:$1}>
 </cffunction>
 <cffunction name="_set$1" access="private" returntype="void" output="false">
-	<cfargument name="$1" type="${2:any}" required="true" />
-	<cfset _$1 = arguments.$1 />
+	<cfargument name="${3:$1}" type="${2:any}" required="true" />
+	<cfset _${3:$1} = arguments.${3:$1} />
 </cffunction>
 ]]></content>
 	<tabTrigger>getset</tabTrigger>
-	<!-- <scope>source.cfscript</scope> -->
-
 </snippet>

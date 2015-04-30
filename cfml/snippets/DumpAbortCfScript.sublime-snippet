@@ -3,5 +3,4 @@
 WriteDump($1);${2: abort;}
 ]]></content>
 	<tabTrigger>das</tabTrigger>
-	<scope>source.cfscript</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+property name="$1" ${2:type="${3:string}"} ${4:dbtype="${5:varchar}"} ${6:maxLength="${7:50}"} ${8:label="${9:$1}"} ${10:required="${11:true}"};
+]]></content>
+	<tabTrigger>pps</tabTrigger>
+</snippet>

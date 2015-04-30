@@ -2,11 +2,6 @@
 	<content><![CDATA[
 <cfcomponent output="false">
 
-<!--- properties --->
-	<cfscript>
-
-	</cfscript>
-
 <!--- constructor --->
 	<cffunction name="init" access="public" returntype="any" output="false">
 		<cfscript>
@@ -19,8 +14,9 @@
 
 <!--- private helpers --->
 
+<!--- getters and setters --->
+
 </cfcomponent>
 ]]></content>
 	<tabTrigger>cfc</tabTrigger>
-<!-- 	<scope>source.cfscript</scope>
- --></snippet>
+</snippet>

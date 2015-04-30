@@ -7,5 +7,4 @@
 </cffunction>
 ]]></content>
 	<tabTrigger>test</tabTrigger>
-	<scope>source.cfscript</scope>
 </snippet>

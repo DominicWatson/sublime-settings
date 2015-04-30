@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * $0
+ * \n
+ * ${arguments}
+ * \n
+ * Example
+ * .......
+ * \n
+ * .. code-block:: java
+ * \n
+ * \t
+ */
+]]></content>
+	<tabTrigger>pjd</tabTrigger>
+</snippet>

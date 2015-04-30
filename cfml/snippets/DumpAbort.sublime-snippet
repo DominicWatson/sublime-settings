@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<cfdump var="#$1#" ${2:abort="true" }/>
+<cfdump var="#$1#" />${2:<cfabort />}
 ]]></content>
 	<tabTrigger>da</tabTrigger>
-	<scope>source.cfscript</scope>
 </snippet>

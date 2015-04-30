@@ -1,11 +1,32 @@
 {
-	"dictionary": "Packages/Language - English/en_GB.dic",
-	"font_face": "Bitstream Vera Sans Mono",
-	"font_size": 8.0,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_indent_guides": true,
+	"file_exclude_patterns":
+	[
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"aspnet_client",
+		"WEB-INF"
+	],
+	"font_face": "Meslo LG L DZ",
+	"font_size": 10,
+	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Theme - Afterglow",
 		"Vintage"
 	],
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": true,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"tabs_small": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }

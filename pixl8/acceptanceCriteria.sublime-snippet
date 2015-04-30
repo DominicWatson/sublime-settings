@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{panel:title=Acceptance Criteria}
+As a $1, I will:
+* {color:red}$0{color}
+{panel}
+]]></content>
+	<tabTrigger>ac</tabTrigger>
+</snippet>

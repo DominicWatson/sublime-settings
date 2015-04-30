@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+component output=false {
+
+// CONSTRUCTOR
+	public any function init() output=false {
+		$0
+		return this;
+	}
+
+// PUBLIC API METHODS
+
+// PRIVATE HELPERS
+
+// GETTERS AND SETTERS
+
+}
+]]></content>
+	<tabTrigger>cfcs</tabTrigger>
+</snippet>

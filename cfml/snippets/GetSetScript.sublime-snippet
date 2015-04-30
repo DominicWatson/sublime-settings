@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+private ${2:any} function _get$1() {
+	return _${3:$1};
+}
+private void function _set$1( required ${2:any} ${3:$1} ) {
+	_${3:$1} = arguments.${3:$1};
+}
+]]></content>
+	<tabTrigger>getsets</tabTrigger>
+</snippet>
